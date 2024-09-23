@@ -2,7 +2,7 @@
 
 This repository contains deployment details of a [Helpful Information App](https://github.com/rodekruis/helpful-information)-instance.
 
-Public URL: <https://helpful-info.github.io/<insert-instance-name>>
+Public URL: <https://rodekruis.github.io/helpfulinformation-idm2024>
 
 ---
 
@@ -11,7 +11,7 @@ Public URL: <https://helpful-info.github.io/<insert-instance-name>>
 ### `helpful-information` package
 
 - Using:  
-  [![helpful-information version in use](https://img.shields.io/github/package-json/dependency-version/helpful-info/template/helpful-information?style=flat-square&logo=github)](.package.json#L7)
+  [![helpful-information version in use](https://img.shields.io/github/package-json/dependency-version/rodekruis/helpfulinformation-idm2024/helpful-information?style=flat-square&logo=github)](.package.json#L7)
 
 - Latest available:  
   [![GitHub helpful-information latest release](https://img.shields.io/github/v/release/rodekruis/helpful-information?display_name=tag&label=helpful-information%20release&logo=github)](https://github.com/rodekruis/helpful-information/releases)
