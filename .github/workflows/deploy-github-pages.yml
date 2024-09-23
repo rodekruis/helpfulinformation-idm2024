@@ -42,7 +42,7 @@ env:
   # A (short) name, visible in the top (navigation-)bar and in the browser's tab/window-title (and search-engine results)
   TXT_APP_NAME: 'IDM 2024 briefing'
   # An absolute/data-URL to an image, visible in the top (navigation-)bar
-  TXT_APP_LOGO_URL: 'https://nl.wikipedia.org/wiki/Rode_Kruis#/media/Bestand:Flag_of_the_Red_Cross.svg'
+  TXT_APP_LOGO_URL: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_the_Red_Cross.svg'
   # The first heading, (only) visible on the main-page
   TXT_MAIN_PAGE_HEADER: 'IDM 2024 briefing'
   # The (optional) introduction text, (only) visible on the main-page.
