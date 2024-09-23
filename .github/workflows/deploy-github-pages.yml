@@ -42,7 +42,7 @@ env:
   # A (short) name, visible in the top (navigation-)bar and in the browser's tab/window-title (and search-engine results)
   TXT_APP_NAME: 'IDM 2024'
   # An absolute/data-URL to an image, visible in the top (navigation-)bar
-  TXT_APP_LOGO_URL: 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"%3E%3Cg fill="%23f5333f"%3E%3Cpath d="M10 0h10v30H10z" /%3E%3Cpath d="M30 10v10H0V10z" /%3E%3C/g%3E%3C/svg%3E'
+  TXT_APP_LOGO_URL: ''
   # The first heading, (only) visible on the main-page
   TXT_MAIN_PAGE_HEADER: 'NLRC IDM 2024'
   # The (optional) introduction text, (only) visible on the main-page.
