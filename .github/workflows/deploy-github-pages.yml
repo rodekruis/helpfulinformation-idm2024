@@ -33,7 +33,7 @@ env:
   #
   #
   # For demo-purpose only: A highly visible label to show instance name/version
-  ENV_NAME: 'IDM 2024 briefing'
+  ENV_NAME: ''
   #
   # ###########################################################################
   # TEXT CONTENT:
@@ -48,8 +48,10 @@ env:
   # The (optional) introduction text, (only) visible on the main-page.
   # Can be multiple-lines of Markdown syntax or contain some HTML. Newlines need to be specified with `\n` or `<br />`.
   TXT_MAIN_PAGE_INTRO: >-
-    This Helpful Information App (HIA) is made to brief you for and answer your frequently asked questions about the NLRC IDM 2024 (30 September - 4 October). Please click on the button below to access all information. 
+    This Helpful Information App (HIA) is made to brief you for and answer your frequently asked questions about the NLRC IDM 2024 (30 September - 4 October).  
     \n
+    \n
+    Please click on the button below to access all information.
   #
   # An (optional) notice on the top of the screen, can be overwritten on sub-pages per-region by each region's sheet.
   TXT_MAIN_PAGE_NOTICE: ''
