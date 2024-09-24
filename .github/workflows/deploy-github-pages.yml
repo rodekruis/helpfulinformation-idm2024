@@ -48,7 +48,7 @@ env:
   # The (optional) introduction text, (only) visible on the main-page.
   # Can be multiple-lines of Markdown syntax or contain some HTML. Newlines need to be specified with `\n` or `<br />`.
   TXT_MAIN_PAGE_INTRO: >-
-    This Helpful Information App (HIA) is made to brief you for and answer your frequently asked questions about the NLRC IDM 2024 (30 September - 4 October).  
+    This Helpful Information web-App (HIA) is made to brief you for and answer your frequently asked questions about the NLRC IDM 2024 (30 September - 4 October).  
     \n
     \n
     Please click on the button below to access all information.
